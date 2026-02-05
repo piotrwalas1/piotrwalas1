@@ -20,7 +20,7 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 ---
 
 ### 📫 Kontakt
-* **LinkedIn:** [Twój profil LinkedIn](https://www.linkedin.com/in/piotr-walas-2650a62b5)
+* **LinkedIn:** [Profil LinkedIn](https://www.linkedin.com/in/piotr-walas-2650a62b5)
 
 ---
 
