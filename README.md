@@ -24,5 +24,3 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 
 ---
 
-### 📈 Statystyki GitHub
-![Statystyki Piotra](https://github-readme-stats.vercel.app/api?username=piotrwalas1&show_icons=true&theme=radical)
