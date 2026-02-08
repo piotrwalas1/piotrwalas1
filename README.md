@@ -9,6 +9,7 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
@@ -30,7 +31,8 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 
 ### 📫 Kontakt
 * **LinkedIn:** [Profil LinkedIn](https://www.linkedin.com/in/piotr-walas-2650a62b5)
-* **Email:** [walas_p@interia.pl]
+* **Email:** walas_p@interia.pl
+
 
 ---
 
