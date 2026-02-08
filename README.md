@@ -8,7 +8,7 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 ### 🛠️ Moja skrzynka z narzędziami
 * **Testowanie:** Selenium WebDriver, Manual Testing (Checklisty/Scenariusze)
 * **Języki:** Java (podstawy automatyzacji)
-* **Narzędzia:** IntelliJ IDEA, Git, GitHub, Maven
+* **Narzędzia:** IntelliJ IDEA, Git, GitHub, Postman, Jenkins, Maven
 * **Inne:** Analiza danych, QA, podstawy AI
 
 ---
