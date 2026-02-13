@@ -20,7 +20,7 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 
 ### 🚀 Moje kluczowe projekty
 * [**AI Agents**](https://github.com/piotrwalas1/AI-Agents/blob/main/README.md) – Budowa Agentów AI w make.com.
-* [**Santander Analysis**](https://github.com/piotrwalas1/Santander) – Automatyzacja formularzy i weryfikacja UI dla sektora bankowego.
+* [**Santander**](https://github.com/piotrwalas1/Santander) – Automatyzacja formularzy i weryfikacja UI dla sektora bankowego.
 * [**Xopero**](https://github.com/piotrwalas1/Xopero) – Automatyzacja formularzy, testowanie manualne.
 * [**Sklep test**](https://github.com/piotrwalas1/skleptest.pl) – Testowanie manualne.
 * [**galaxyaiwhisper.app**](https://github.com/piotrwalas1/galaxyaiwhisper.app/blob/main/README.md) – Testowanie manualne, przykładowe zgłaszane błędy.
