@@ -25,6 +25,7 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 * [**Sklep test**](https://github.com/piotrwalas1/skleptest.pl) – Testowanie manualne.
 * [**galaxyaiwhisper.app**](https://github.com/piotrwalas1/galaxyaiwhisper.app/blob/main/README.md) – Testowanie manualne, przykładowe zgłaszane błędy.
 * [**Testy API Postman**](https://github.com/piotrwalas1/testy-api-postman/tree/main) – API Testing & CI/CD.
+* [**LLM Evaluation & Safety Framework**](https://github.com/piotrwalas1/llm-evaluation-framework/tree/main#readme) – Testowanie modeli LLM.
 * [**PORTFOLIO**](https://github.com/piotrwalas1/PORTFOLIO/blob/main/README.md) – Zbiór dokumentacji testowej, checklist i analiz.
 
 ---
