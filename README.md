@@ -19,6 +19,7 @@ Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie 
 ---
 
 ### 🚀 Moje kluczowe projekty
+* [**Gemini Benchmark Framework**](https://github.com/piotrwalas1/Gemini-Benchmark-Framework/blob/main/README.md) – Testowanie modeli LLM.
 * [**LLM Evaluation & Safety Framework**](https://github.com/piotrwalas1/llm-evaluation-framework/tree/main#readme) – Testowanie modeli LLM.
 * [**AI Agents**](https://github.com/piotrwalas1/AI-Agents/blob/main/README.md) – Budowa Agentów AI w make.com.
 * [**Santander**](https://github.com/piotrwalas1/Santander) – Automatyzacja formularzy i weryfikacja UI dla sektora bankowego.
