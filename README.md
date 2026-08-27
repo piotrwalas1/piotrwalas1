@@ -1,7 +1,25 @@
 # Cześć, jestem Piotr! 👋
 
 ### 🔍 O mnie
-Jestem aspirującym **QA Engineerem / Testerem Oprogramowania**. Pasjonuje mnie zapewnianie jakości i automatyzacja procesów, która ułatwia życie zespołom deweloperskim. Obecnie intensywnie rozwijam swoje umiejętności w obszarze testów GUI oraz API.
+Łączę solidne podstawy techniczne (certyfikat ISTQB) z praktycznym podejściem biznesowym. W testach skupiam się na jakości, która realnie wspiera potrzeby użytkownika oraz cele projektu.
+
+Co wnoszę do zespołu:
+
+Testowanie manualne: Doświadczenie w pracy z wymaganiami i procesami biznesowymi.
+
+Automatyzacja: Rozwijanie skryptów (Java) w celu optymalizacji pracy.
+
+Nowoczesne podejście: Aktywnie rozwijam się w testowaniu modeli LLM (benchmarking, prompt engineering, analiza stabilności API).
+
+Technologie:
+
+Zarządzanie: Jira, Azure DevOps, TestLink
+
+API & Wydajność: Postman, SoapUI, REST-API, JMeter
+
+Automatyzacja: Selenium/Java
+
+Narzędzia techniczne: SQL, GIT, Docker, HTML
 
 ---
 
