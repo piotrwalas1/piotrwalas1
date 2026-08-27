@@ -11,16 +11,6 @@ Automatyzacja: Rozwijanie skryptów (Java) w celu optymalizacji pracy.
 
 Nowoczesne podejście: Aktywnie rozwijam się w testowaniu modeli LLM (benchmarking, prompt engineering, analiza stabilności API).
 
-Technologie:
-
-Zarządzanie: Jira, Azure DevOps, TestLink
-
-API & Wydajność: Postman, SoapUI, REST-API, JMeter
-
-Automatyzacja: Selenium/Java
-
-Narzędzia techniczne: SQL, GIT, Docker, HTML
-
 ---
 
 ### 🛠️ Toolstack (Narzędzia)
