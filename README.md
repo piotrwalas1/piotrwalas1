@@ -30,6 +30,7 @@ Nowoczesne podejście: Aktywnie rozwijam się w testowaniu modeli LLM (benchmark
 * [**LLM-Gemini Benchmark Framework**](https://github.com/piotrwalas1/Gemini-Benchmark-Framework/blob/main/README.md) – Testowanie modeli LLM.
 * [**LLM-Banking RAG Project**](https://github.com/piotrwalas1/Banking_RAG_Project/blob/main/README.md) – Testowanie modeli LLM z RAG.
 * [**LLM Evaluation & Safety Framework**](https://github.com/piotrwalas1/llm-evaluation-framework/tree/main#readme) – Testowanie modeli LLM.
+* [**LLM-security-redteam-harness2**](https://github.com/piotrwalas1/llm-security-redteam-harness2) – Hybrydowy framework testowy. Łączy deterministyczny benchmark statyczny z dynamiczną pętlą ataków iteracyjnych (PAIR / TAP).-w budowie.
 * [**LLM-security-redteam-harness**](https://github.com/piotrwalas1/llm-security-redteam-harness) – Testy bezpieczeństwa modeli LLM (OWASP Top 10 dla aplikacji LLM) -w budowie.
 * [**AI Agents**](https://github.com/piotrwalas1/AI-Agents/blob/main/README.md) – Budowa Agentów AI w make.com.
 * [**Santander**](https://github.com/piotrwalas1/Santander) – Automatyzacja formularzy (Selenium/java) i weryfikacja UI dla sektora bankowego.
