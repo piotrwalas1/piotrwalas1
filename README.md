@@ -31,6 +31,9 @@ Nowoczesne podejście: Aktywnie rozwijam się w testowaniu modeli LLM (benchmark
 * [**LLM-Banking RAG Project**](https://github.com/piotrwalas1/Banking_RAG_Project/blob/main/README.md) – Testowanie modeli LLM z RAG.
 * [**LLM Evaluation & Safety Framework**](https://github.com/piotrwalas1/llm-evaluation-framework/tree/main#readme) – Testowanie modeli LLM.
 * [**LLM-security-redteam-harness2**](https://github.com/piotrwalas1/llm-security-redteam-harness2) – Hybrydowy framework testowy. Łączy deterministyczny benchmark statyczny z dynamiczną pętlą ataków iteracyjnych (PAIR / TAP).-w budowie.
+* Zestaw do testowania zespołu agentów AI. Składa się z dwóch modułów:
+*  [**LLM-security-redteam-harness3**](https://github.com/piotrwalas1/llm-security-redteam-harness3/blob/main/README.md) - Hybrydowy framework testowy. Łączy deterministyczny benchmark statyczny z dynamiczną pętlą ataków iteracyjnych (PAIR / TAP).
+*  [**LLM Security Red-Team Harness (AI Agents 2)**](https://github.com/piotrwalas1/llm-security-redteam-harness-AIagents2) - System oparty na architekturze wielu agentów (multi-agent system) zarządzanych przez orkiestratora wraz z Agentem Sprawdzającym Bezpieczeństwo 
 * [**LLM-security-redteam-harness**](https://github.com/piotrwalas1/llm-security-redteam-harness) – Testy bezpieczeństwa modeli LLM (OWASP Top 10 dla aplikacji LLM) -w budowie.
 * [**AI Agents**](https://github.com/piotrwalas1/AI-Agents/blob/main/README.md) – Budowa Agentów AI w make.com.
 * [**Santander**](https://github.com/piotrwalas1/Santander) – Automatyzacja formularzy (Selenium/java) i weryfikacja UI dla sektora bankowego.
